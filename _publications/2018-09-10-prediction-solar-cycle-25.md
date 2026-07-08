@@ -2,6 +2,7 @@
 title: "Prediction of solar cycle 25: A non-linear approach"
 collection: publications
 category: manuscripts
+author_type: first-author
 permalink: /publication/2018-prediction-solar-cycle-25
 excerpt: 'Sarp, V., Kilcik, A., Yurchyshyn, V., Rozelot, J.P., & Ozguc, A. (2018)'
 date: 2018-09-10
