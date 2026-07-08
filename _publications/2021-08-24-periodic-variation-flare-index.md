@@ -2,6 +2,7 @@
 title: "Periodic variation of solar flare index for the last solar cycle (Cycle 24)"
 collection: publications
 category: manuscripts
+author_type: contributing
 permalink: /publication/2021-periodic-variation-flare-index
 excerpt: 'Ozguc, A., Kilcik, A., Sarp, V., Yeşilyaprak, H., & Pektaş, R. (2021)'
 date: 2021-08-24
