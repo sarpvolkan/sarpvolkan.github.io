@@ -2,6 +2,7 @@
 title: "Temporal and periodic variation of the MCMESI for the last two solar cycles; comparison with the number of different class X-ray solar flares"
 collection: publications
 category: manuscripts
+author_type: contributing
 permalink: /publication/2020-mcmesi-temporal-periodic
 excerpt: 'Kilcik, A., Chowdhury, P., Sarp, V., Yurchyshyn, V., Dönmez, B., Rozelot, J.P., & Özgüç, A. (2020)'
 date: 2020-11-13
