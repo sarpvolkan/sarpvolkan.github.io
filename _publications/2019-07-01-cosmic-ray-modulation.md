@@ -2,7 +2,7 @@
 title: "Cosmic ray modulation with the maximum CME speed index during solar cycles 23 and 24"
 collection: publications
 category: manuscripts
-author_type: contributing
+author_type: first-author
 permalink: /publication/2019-cosmic-ray-modulation
 excerpt: 'Sarp, V., Kilcik, A., Yurchyshyn, V., Ozguc, A., & Rozelot, J.P. (2019)'
 date: 2019-07-01
