@@ -2,6 +2,7 @@
 title: "The evolution of flaring and non-flaring active regions"
 collection: publications
 category: manuscripts
+author_type: contributing
 permalink: /publication/2018-flaring-nonflaring-regions
 excerpt: 'Kilcik, A., Yurchyshyn, V., Sahin, S., Sarp, V., Obridko, V., Ozguc, A. & Rozelot, J.P. (2018)'
 date: 2018-04-16
