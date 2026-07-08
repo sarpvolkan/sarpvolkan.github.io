@@ -2,6 +2,7 @@
 title: "Response of the thermosphere-ionosphere system to an X-class solar flare: 30 March 2022 case study"
 collection: publications
 category: manuscripts
+author_type: first-author
 permalink: /publication/2024-thermosphere-ionosphere-flare
 excerpt: 'Sarp, V., Yigit, E., & Kilcik, A. (2024)'
 date: 2024-10-04
