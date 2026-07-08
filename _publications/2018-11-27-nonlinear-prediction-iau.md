@@ -2,7 +2,6 @@
 title: "Nonlinear prediction of solar cycle 25"
 collection: publications
 category: conferences
-author_type: conference
 permalink: /publication/2018-nonlinear-prediction-iau
 excerpt: 'Sarp, V., & Kilcik, A. (2018)'
 date: 2018-11-27
