@@ -2,6 +2,7 @@
 title: "Nearly century-scale variation of the Sun's radius"
 collection: publications
 category: manuscripts
+author_type: contributing
 permalink: /publication/2020-sun-radius-variation
 excerpt: 'Hiremath, K.M., Rozelot, J.P., Sarp, V., Kilcik, A., Pavan, D.G. & Gurumath, S.G. (2020)'
 date: 2020-03-13
