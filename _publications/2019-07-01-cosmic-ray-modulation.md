@@ -10,3 +10,4 @@ venue: 'Solar Physics, 294(86)'
 paperurl: 'https://doi.org/10.1007/s11207-019-1481-z'
 citation: 'Sarp, V., Kilcik, A., Yurchyshyn, V., Ozguc, A., &amp; Rozelot, J.P. (2019). Cosmic ray modulation with the maximum CME speed index during solar cycles 23 and 24. <i>Solar Physics, 294</i>(86).'
 ---
+![Hysteresis](/images/anotherFig2.png)
