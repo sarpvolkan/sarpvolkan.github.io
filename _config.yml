@@ -23,7 +23,7 @@ repository               : "sarpvolkan/sarpvolkan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Volkan-Sarp.jpeg"
+  avatar           : "vs.png"
   name             : "Volkan Sarp"
   pronouns         : # example: "she/her"  
   bio              : "Space Science | Complexity"
