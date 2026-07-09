@@ -20,8 +20,4 @@ redirect_from:
     This browser does not support embedded PDF viewing.
     <a href="{{ base_path }}/files/CV.pdf">Click here to download the CV</a>.
   </iframe>
-</div>  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+</div>
