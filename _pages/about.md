@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About
 
 I am a researcher in **Solar–Terrestrial Physics**, with a particular interest in understanding the complex dynamics of the ionosphere–thermosphere system.
 
