@@ -13,5 +13,4 @@ Solar Cycles records are based on sunspot numbers. Counting sunspot numbers has 
 
 We analyzed the sunspot area time series from 1875 to 2015 using phase space reconstruction. Two distinct local neighborhood models were deployed to project the reconstructed state spaces, allowing us to evaluate and compare the predictive capacity of various classification schemes established in the literature. Our results demonstrate that multivariate time series capture the underlying dynamics of the solar activity cycle significantly better than univariate frameworks, implying that critical physical information is systematically lost within each tested classification scheme.
 
-We grouped the 
 ![Simple vs Complex](/images/StateSpaceSunspot.png)
