@@ -10,5 +10,5 @@ venue: 'Solar Physics, 294(86)'
 paperurl: 'https://doi.org/10.1007/s11207-019-1481-z'
 citation: 'Sarp, V., Kilcik, A., Yurchyshyn, V., Ozguc, A., &amp; Rozelot, J.P. (2019). Cosmic ray modulation with the maximum CME speed index during solar cycles 23 and 24. <i>Solar Physics, 294</i>(86).'
 ---
-We identified a strong coherence between the first-differences of the MCMESI and cosmic ray variations, fundamentally modulated by the solar cycle phase.
+We identified a strong coherence between the variations of first-differenced MCMESI and cosmic ray measurements, fundamentally modulated by the solar cycle phase.
 ![Hysteresis](/images/anotherFig2.png)

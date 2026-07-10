@@ -10,6 +10,6 @@ venue: 'Space Weather, 22'
 paperurl: 'https://doi.org/10.1029/2024SW003938'
 citation: 'Sarp, V., Yigit, E., &amp; Kilcik, A. (2024). Response of the thermosphere-ionosphere system to an X-class solar flare: 30 March 2022 case study. <i>Space Weather, 22</i>.'
 ---
-Characterized longitudinal asymmetries potentially triggered by the geomagnetic field-dependency of ion friction.
+Characterized longitudinal asymmetries, suggested a triggering mechanism based on the magnetic field-dependency of ion friction.
 
 ![Asymmetry](/images/AsimetrikIonFriction.png)

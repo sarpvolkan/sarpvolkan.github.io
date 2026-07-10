@@ -10,3 +10,4 @@ venue: 'Advances in Astronomy, 1'
 paperurl: 'https://doi.org/10.1155/2021/5391091'
 citation: 'Ozguc, A., Kilcik, A., Sarp, V., Yeşilyaprak, H., &amp; Pektaş, R. (2021). Periodic variation of solar flare index for the last solar cycle (Cycle 24). <i>Advances in Astronomy, 1</i>.'
 ---
+![Wavelet](/images/Spectorgraph.png)

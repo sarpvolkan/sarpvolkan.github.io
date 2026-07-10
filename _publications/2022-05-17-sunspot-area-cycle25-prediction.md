@@ -10,3 +10,5 @@ venue: 'Monthly Notices of the Royal Astronomical Society, 513(3), 4152-4158'
 paperurl: 'https://doi.org/10.1093/mnras/stac1162'
 citation: 'Chowdhury, P., Sarp, V., Kilcik, A., Chandra Ray, P., &amp; Rozelot, J.P. (2022). A non-linear approach to predicting the amplitude and timing of the sunspot area in cycle 25. <i>Monthly Notices of the Royal Astronomical Society, 513</i>(3), 4152-4158.'
 ---
+
+![State Spaces](/images/SScomparison.png)

@@ -11,4 +11,5 @@ paperurl: 'https://doi.org/10.1007/s11207-020-01711-2'
 citation: 'Kilcik, A., Chowdhury, P., Sarp, V., Yurchyshyn, V., Dönmez, B., Rozelot, J.P., &amp; Özgüç, A. (2020). Temporal and periodic variation of the MCMESI for the last two solar cycles; comparison with the number of different class X-ray solar flares. <i>Solar Physics, 295</i>, Article 159.'
 ---
 
-![MCMESI](/images/proof.png)
+We detected coherence between the MCMESI and number of solar flares
+![MCMESI](/images/proof.png). The cross-correlation and wavelet analyses were applied to monthly data sets. We couldn't detect any distinction between solar flare classes. 
