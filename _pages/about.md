@@ -1,21 +1,16 @@
 ---
 permalink: /
-title: "About Volkan"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-I am a researcher in **Solar–Terrestrial Physics**, with a particular interest in understanding the complex dynamics of the ionosphere–thermosphere system.
-
-My research lies at the intersection of geospace data analysis, complexity science, and computational methods. I investigate how the near-Earth space environment responds to solar forcing by combining observational data analysis, numerical modeling, signal processing, and data-driven approaches. My research employs a diverse set of computational and quantitative methods, including nonlinear forecasting, causal inference, multiscale signal analysis, and complexity-based characterization.
-
-In recent years, my research has focused on the analysis of Global Navigation Satellite System (GNSS)-derived ionospheric observations, numerical simulations of the thermosphere–ionosphere system, and the development of computational methods for revealing multiscale structure in geophysical data. More broadly, I am interested in understanding **how complexity emerges in natural systems** and how interpretable computational techniques can be used to study it.
-
-Beyond traditional modeling approaches, I am particularly interested in integrating concepts from complexity science, nonlinear time-series analysis, and artificial intelligence to develop physically meaningful and explainable methods for scientific discovery. I believe that future advances in geospace research will increasingly rely on interdisciplinary approaches that combine physical insight, domain expertise, and **data-driven computational intelligence.**
-
-This website serves as a platform to share my research, publications, projects, and professional activities. I also intend to use it to publish technical articles and research notes on topics including solar–terrestrial physics, scientific computing, complexity science, and artificial intelligence.
+About Volkan
+As a researcher in **solar–terrestrial physics**, I specialize in applying complex systems frameworks at the intersection of data processing and computational methods. 
+My work spans sunspot groups, solar activity cycles, and space weather; recently, I investigated the solar flare response of the ionosphere–thermosphere system. We detected distinct longitudinal asymmetries in triggered disturbances and proposed a mechanism driven by the geomagnetic field-dependency of the ion friction in the atmosphere. I am now expanding this framework to sunset, sunrise and eclipse events, where initial results signal a need to investigate magnetic buoyancy dependency alongside ordinary Archimedean buoyancy effects.
+More broadly, my research focuses on the spatiotemporal mapping of GNSS-derived ionospheric total electron content (TEC) and numerical simulations of the thermosphere–ionosphere system. For the April 2024 total solar eclipse, I developed a multi-scale detrending pipeline to characterize scale-dependent responses, utilizing an event-centered moving spatial reference frame aligned with the eclipse shadow trajectory at the ionospheric pierce-point altitude. This approach successfully isolated and analyzed eclipse-induced TEC perturbations with high spatial coherence over the continental United States. Building on these empirical insights, I am currently designing a Global Ionosphere-Thermosphere Model (GITM) experiment.
+I study computational methods to reveal multiscale structures in geophysical data, specializing in nonlinear time-series analysis as an explainable technique to uncover **how complexity emerges in natural systems**. My approach integrates mathematical insight and domain expertise with data-driven computational intelligence.
 
 **Thank you for visiting.**

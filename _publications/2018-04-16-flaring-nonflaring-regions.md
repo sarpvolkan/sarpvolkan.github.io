@@ -10,7 +10,7 @@ venue: 'Monthly Notices of the Royal Astronomical Society, 477(1)'
 paperurl: 'https://doi.org/10.1093/mnras/sty388'
 citation: 'Kilcik, A., Yurchyshyn, V., Sahin, S., Sarp, V., Obridko, V., Ozguc, A. &amp; Rozelot, J.P. (2018). The evolution of flaring and non-flaring active regions. <i>Monthly Notices of the Royal Astronomical Society, 477</i>(1).'
 ---
-
+First published article!
 
 {% include base_path %}
 
@@ -26,4 +26,6 @@ citation: 'Kilcik, A., Yurchyshyn, V., Sahin, S., Sarp, V., Obridko, V., Ozguc, 
     <a href="{{ base_path }}/files/CV.pdf">Click here to download the Figure 2</a>.
   </iframe>
 </div>
+
+
 
