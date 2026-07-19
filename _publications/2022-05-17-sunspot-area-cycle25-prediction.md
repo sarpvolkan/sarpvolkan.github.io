@@ -10,5 +10,6 @@ venue: 'Monthly Notices of the Royal Astronomical Society, 513(3), 4152-4158'
 paperurl: 'https://doi.org/10.1093/mnras/stac1162'
 citation: 'Chowdhury, P., Sarp, V., Kilcik, A., Chandra Ray, P., &amp; Rozelot, J.P. (2022). A non-linear approach to predicting the amplitude and timing of the sunspot area in cycle 25. <i>Monthly Notices of the Royal Astronomical Society, 513</i>(3), 4152-4158.'
 ---
+This work re-applied a nonlinear dynamical systems framework—based on time-delay embedding, phase-space reconstruction, and simplex projection—to sunspot area data. Despite representing a different physical proxy, the reconstructed attractor closely matched that obtained from sunspot numbers, providing independent validation of the methodology and the inferred solar-cycle dynamics.
 
 ![State Spaces](/images/SScomparison.png)
