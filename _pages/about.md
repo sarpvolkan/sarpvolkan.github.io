@@ -7,14 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-As a researcher in **solar–terrestrial physics**, I specialize in applying complex systems frameworks at the intersection of data processing and computational methods. 
+## General Profile
 
+I trained as a systems engineer and now work on problems in space weather. Specifically, I build methods to detect and characterize patterns in observational data. My work sits at the intersection of signal processing, solar-terrestrial science and complex systems.
 
-My work spans sunspot groups, solar activity cycles, and space weather; recently, I investigated the solar flare response of the ionosphere–thermosphere system. We detected distinct longitudinal asymmetries in triggered disturbances and proposed a mechanism driven by the geomagnetic field-dependency of the ion friction in the atmosphere. I am now expanding this framework to sunset, sunrise and eclipse events, where initial results signal a need to investigate magnetic buoyancy dependency alongside ordinary Archimedean buoyancy effects.
-More broadly, my research focuses on the spatiotemporal mapping of GNSS-derived ionospheric total electron content (TEC) and numerical simulations of the thermosphere–ionosphere system. 
+The throughline across my research is cross-disciplinary methodological transfer: methods developed for problems that have nothing to do with space physics, repurposed for solar-terrestrial data. For sunspot image analysis, I adapted a particle-tracking framework originally built for tracking blood cells; for solar activity forecasting, I applied a nonlinear prediction method developed in quantitative ecology. I see this transfer continuing into data-driven scientific discovery, often termed the fourth paradigm of science: information-theoretic measures of ionospheric disturbance, grounded in a granulation-based description of the ionosphere, could support operational forecasting and nowcasting of radio blackouts and navigation errors. The same ionosphere–thermosphere coupling could be exploited in reverse: assimilating ionospheric data to infer thermospheric state and improve orbital drag estimation.
 
+My current work characterizes ionosphere–thermosphere coupling using GNSS (Global Navigation Satellite System)-derived total electron content (TEC), the standard proxy for ionospheric electron density: temporal filtering and spatiotemporal mapping to characterize disturbances, and, most recently, simulation experiment design in the Global Ionosphere-Thermosphere Model (GITM). I developed a multiscale detrending pipeline to isolate scale-dependent TEC responses to solar flares and the April 2024 total solar eclipse, using an event-centered reference frame aligned with the eclipse shadow track. I'm now extending these findings into GITM experiments testing candidate mechanisms behind the longitudinal asymmetries observed in the data.
 
-For the April 2024 total solar eclipse, I developed a multi-scale detrending pipeline to characterize scale-dependent responses, utilizing an event-centered moving spatial reference frame aligned with the eclipse shadow trajectory at the ionospheric pierce-point altitude. This approach successfully isolated and analyzed eclipse-induced TEC perturbations with high spatial coherence over the continental United States. Building on these empirical insights, I am currently designing a Global Ionosphere-Thermosphere Model (GITM) experiment.
-I study computational methods to reveal multiscale structures in geophysical data, specializing in nonlinear time-series analysis as an explainable technique to uncover **how complexity emerges in natural systems**. My approach integrates mathematical insight and domain expertise with data-driven computational intelligence.
-
-**Thank you for visiting.**
+I'm currently on the faculty and fellowship market, seeking a position where this methodology can extend past ionospheric physics into other complex geophysical systems.
