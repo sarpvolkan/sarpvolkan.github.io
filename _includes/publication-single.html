@@ -1,0 +1,28 @@
+{% include base_path %}
+{% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+<div class="list__item publication__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/ScholarlyArticle">
+    <h3 class="archive__item-title" itemprop="headline">
+      <a href="{{ post.paperurl | escape }}" itemprop="url">{{ title }}</a>
+    </h3>
+    {% if post.citation %}
+      <p class="publication__citation">{{ post.citation }}</p>
+    {% else %}
+      <div class="publication__citation">{{ post.excerpt | markdownify }}</div>
+      <p>Published in <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
+    {% endif %}
+    {% assign publication_content = post.content | strip %}
+    {% if publication_content != "" %}
+      <div class="publication__content" itemprop="description">
+        {{ post.content | markdownify }}
+      </div>
+    {% endif %}
+    {% if post.slidesurl or post.bibtexurl %}
+      <p>
+        {% if post.slidesurl %}<a href="{{ post.slidesurl }}">Download Slides</a>{% endif %}
+        {% if post.slidesurl and post.bibtexurl %} | {% endif %}
+        {% if post.bibtexurl %}<a href="{{ post.bibtexurl }}">Download Bibtex</a>{% endif %}
+      </p>
+    {% endif %}
+  </article>
+</div>

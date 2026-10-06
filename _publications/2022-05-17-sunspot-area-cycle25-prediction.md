@@ -1,8 +1,8 @@
 ---
 title: "A non-linear approach to predicting the amplitude and timing of the sunspot area in cycle 25"
 collection: publications
-category: contributing
-author_type: first-author
+category: manuscripts
+author_type: contributing
 permalink: /publication/2022-sunspot-area-cycle25-prediction
 excerpt: 'Chowdhury, P., Sarp, V., Kilcik, A., Chandra Ray, P., & Rozelot, J.P. (2022)'
 date: 2022-05-17

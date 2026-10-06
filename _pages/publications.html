@@ -22,7 +22,7 @@ author_profile: true
     <h2>First-Author Publications</h2><hr />
     {% assign first_author_shown = true %}
   {% endunless %}
-  {% include archive-single.html %}
+  {% include publication-single.html %}
 {% endfor %}
 
 <!-- Contributing Author Publications (journal articles only) -->
@@ -38,7 +38,7 @@ author_profile: true
     <h2>Contributing Author Publications</h2><hr />
     {% assign contributing_shown = true %}
   {% endunless %}
-  {% include archive-single.html %}
+  {% include publication-single.html %}
 {% endfor %}
 
 <!-- Conference Proceedings -->
@@ -51,5 +51,5 @@ author_profile: true
     <h2>Conference Proceedings</h2><hr />
     {% assign conference_shown = true %}
   {% endunless %}
-  {% include archive-single.html %}
+  {% include publication-single.html %}
 {% endfor %}
