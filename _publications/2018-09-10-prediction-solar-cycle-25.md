@@ -14,4 +14,4 @@ Using concepts from nonlinear dynamical systems and state-space reconstruction, 
 
 Furthermore, we resolved a sampling time-step dependency in simplex projection forecasts of the solar cycle. A systematic sensitivity analysis is underway to evaluate this across distinct solar cycle phases (ascending, maximum, descending, and minimum).
 
-![Convergence](/images/csp.png)
+<a href="{{ '/images/publications/csp.webp' | relative_url }}"><img src="{{ '/images/publications/csp.webp' | relative_url }}" alt="Convergence" width="946" height="826" loading="lazy" decoding="async"></a>

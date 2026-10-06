@@ -12,4 +12,4 @@ citation: 'Sarp, V., Yigit, E., &amp; Kilcik, A. (2024). Response of the thermos
 ---
 Characterized longitudinal asymmetries, suggested a triggering mechanism based on the magnetic field-dependency of ion friction.
 
-![Asymmetry](/images/AsimetrikIonFriction.png)
+<a href="{{ '/images/publications/AsimetrikIonFriction.webp' | relative_url }}"><img src="{{ '/images/publications/AsimetrikIonFriction.webp' | relative_url }}" alt="Asymmetry" width="1118" height="1150" loading="lazy" decoding="async"></a>

@@ -12,4 +12,4 @@ citation: 'Kilcik, A., Chowdhury, P., Sarp, V., Yurchyshyn, V., Dönmez, B., Roz
 ---
 
 We detected coherence between the MCMESI and number of solar flares
-![MCMESI](/images/Proof.png). The cross-correlation and wavelet analyses were applied to monthly data sets. We couldn't detect any distinction between solar flare classes. 
+<a href="{{ '/images/publications/Proof.webp' | relative_url }}"><img src="{{ '/images/publications/Proof.webp' | relative_url }}" alt="MCMESI" width="1190" height="770" loading="lazy" decoding="async"></a>. The cross-correlation and wavelet analyses were applied to monthly data sets. We couldn't detect any distinction between solar flare classes. 

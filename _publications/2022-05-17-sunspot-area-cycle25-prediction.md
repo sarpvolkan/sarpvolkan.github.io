@@ -12,4 +12,4 @@ citation: 'Chowdhury, P., Sarp, V., Kilcik, A., Chandra Ray, P., &amp; Rozelot, 
 ---
 This work re-applied a nonlinear dynamical systems framework—based on time-delay embedding, phase-space reconstruction, and simplex projection—to sunspot area data. Despite representing a different physical proxy, the reconstructed attractor closely matched that obtained from sunspot numbers, providing independent validation of the methodology and the inferred solar-cycle dynamics.
 
-![State Spaces](/images/SScomparison.png)
+<a href="{{ '/images/publications/SScomparison.webp' | relative_url }}"><img src="{{ '/images/publications/SScomparison.webp' | relative_url }}" alt="State Spaces" width="1662" height="1192" loading="lazy" decoding="async"></a>

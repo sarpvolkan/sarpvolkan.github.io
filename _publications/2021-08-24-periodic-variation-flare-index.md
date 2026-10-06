@@ -14,4 +14,4 @@ Uncovering Rhythms in Solar Flare Activity
 
 Solar flares do not occur randomly. In this study, I analyzed more than a decade of Solar Flare Index observations to identify characteristic periodicities throughout Solar Cycle 24. The detected cycles improve our understanding of the Sun's magnetic behavior and provide valuable information for long-term studies of solar activity and space weather.
 
-![Wavelet](/images/asymmetry.png)
+<a href="{{ '/images/publications/asymmetry.webp' | relative_url }}"><img src="{{ '/images/publications/asymmetry.webp' | relative_url }}" alt="Wavelet" width="900" height="956" loading="lazy" decoding="async"></a>

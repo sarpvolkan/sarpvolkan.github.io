@@ -20,12 +20,7 @@ First published article!
   </a>
 </div>
 
-<div style="width: 100%; height: 480px; border: 1px solid #ddd; margin-top: 20px;">
-  <iframe title="Figure 2: The evolution of flaring and non-flaring active regions" loading="lazy" src="{{ base_path }}/files/DistFigure2.pdf" width="100%" height="100%" style="border: none;">
-    This browser does not support embedded PDF viewing.
-    <a href="{{ base_path }}/files/DistFigure2.pdf">Click here to download the Figure 2</a>.
-  </iframe>
-</div>
+<a href="{{ '/files/DistFigure2.pdf' | relative_url }}" aria-label="Open Figure 2 as PDF"><img src="{{ '/images/publications/DistFigure2.webp' | relative_url }}" alt="Figure 2 from The evolution of flaring and non-flaring active regions" width="1191" height="1565" loading="lazy" decoding="async"></a>
 
 
 
